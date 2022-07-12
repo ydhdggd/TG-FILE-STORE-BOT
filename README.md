@@ -16,7 +16,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 
 - `BOT_TOKEN:` Get the bot token from [Bot Father <img src="https://telegra.ph/file/8d80c13110506bf1cb58e.jpg" width="30" height="30">](https://telegram.dog/BotFather)
 
-- `DB_CHANNEL_ID:` Your telegram channel id like -1001355218755
+- `DB_CHANNEL_ID:` Your telegram channel id like -1001234567890
 
 - `UPDATE_CHANNEL:` Your telegram channel username without @ to add force sub. Leave it empty if you don't wanna add. Example: MN_BOTZ_UPDATES
 
@@ -52,7 +52,7 @@ broadcast - to broadcast a message to all BOT users
 👲 <b>DEV</b>
 
 <p align="middle">
-<img src="https://telegra.ph/file/6e56d5a681a8ac322a48d.jpg" width="150" height="150"><br>
+<img src="https://telegra.ph/file/81348a94d98638c26319d.jpg" width="150" height="150"><br>
 <img src="https://badgen.net/badge/Name/꧁☬🅦нιƬê⚚🅓є√ⅰɩ☬꧂/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
 <a href="https://t.me/whitedeviljoypow"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
