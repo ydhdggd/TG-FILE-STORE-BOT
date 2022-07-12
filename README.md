@@ -8,7 +8,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://t.me/whitedeviljoypow)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/MN_BOTZ_UPDATES)
 
-![Maxx](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
+![Maxx](https://telegra.ph/file/ad3e135153d868c36f4b5.png) 🤖
 
 - `API_HASH:` Get this value from [my.telegram.org](https://my.telegram.org).
 
