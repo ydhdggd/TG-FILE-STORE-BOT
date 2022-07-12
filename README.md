@@ -37,6 +37,12 @@ This is a telegram bot helps you to store your files and get the share able perm
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Whitedeviljoypow/TG-FILE-STORE-BOT)
 
+## Commands
+```
+start - check bot alive
+broadcast - to broadcast a message to all STARLIGHT users
+```
+
 ## Tools Used 🧰
 - Language Used [<img src="https://telegra.ph/file/960ed8709acaf8c68b894.jpg" width="100" height="30">](https://www.python.org/)
 - Frame Work [<img src="https://telegra.ph/file/804f06d1590f7619a63ed.jpg" width="100" height="40">](https://github.com/pyrogram/pyrogram)
