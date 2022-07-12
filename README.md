@@ -20,7 +20,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 
 - `UPDATE_CHANNEL:` Your telegram channel username without @ to add force sub. Leave it empty if you don't wanna add. Example: MN_BOTZ_UPDATES
 
-- `OWNER_ID:` Get your user id from [MissRose <img src="https://telegra.ph/file/0a36032bd2221c8d4209d.jpg" width="30" height="30">](https://telegram.dog/MissRose_bot) or FilestoremnBot <img src="https://telegra.ph/file/ae6dc68114f35bcbdd62b.jpg" width="30" height="30">](https://t.me/File_store_mn_Bot)
+- `OWNER_ID:` Get your user id from [MissRose <img src="https://telegra.ph/file/0a36032bd2221c8d4209d.jpg" width="30" height="30">](https://telegram.dog/MissRose_bot) or FilestoremnBot <img src="https://telegra.ph/file/ae6dc68114f35bcbdd62b.jpg" width="30" height="30">]
 
 - `IS_PRIVATE:` Add True if you want to use private ,make sure u add AUTH_USERS if you are using IS_PRIVATE
 
@@ -54,6 +54,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 <p align="left">
 </p>
 
+               
 ######## THANK YOU ########
 
 
