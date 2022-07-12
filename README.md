@@ -40,7 +40,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 ## Commands
 ```
 start - check bot alive
-broadcast - to broadcast a message to all STARLIGHT users
+broadcast - to broadcast a message to all BOT users
 ```
 
 ## Tools Used 🧰
