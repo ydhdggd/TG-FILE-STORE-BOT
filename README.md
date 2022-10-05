@@ -35,7 +35,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 - Step 3: Edit Deploy link button! and change to your USERNAME and REPO Name.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Whitedeviljoypow/TG-FILE-STORE-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harigih/TG-FILE-STORE-BOT)
 
 ## Commands
 ```
