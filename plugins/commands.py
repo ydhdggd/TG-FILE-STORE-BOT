@@ -33,7 +33,7 @@ async def start(c, m, cb=False):
 `You can store your Telegram Media for permanent Link!`
 
 
-**👲 Maintained By:** {owner.mention(style='md')}
+**👲 🤠𝙼𝚈 𝙾𝚆𝙽𝙴𝚁:** {owner.mention(style='md')}
 """
 
     # Buttons
