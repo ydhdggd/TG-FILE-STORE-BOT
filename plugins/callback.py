@@ -70,11 +70,11 @@ async def about_cb(c, m):
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [MN BOTZ UPDATES](https://t.me/MN_BOTZ_UPDATES)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [𝚃𝙰𝙼𝙸𝙻 𝙷𝙱](https://t.me/tamilhb)
 
-👥 𝐆𝐫𝐨𝐮𝐩: [MN BOTZ DISCUSSION GROUP](https://t.me/MN_BOTZ_DISCUSSION_GROUP)
+👥 𝐆𝐫𝐨𝐮𝐩: [• Rᴇǫᴜᴇsᴛ 👑 Gʀᴏᴜᴘ •](https://t.me/all_movie_work)
 
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com/Whitedeviljoypow/TG-FILE-STORE-BOT)
+🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://t.me/all_movie_work)
 """
 
     # creating buttons
